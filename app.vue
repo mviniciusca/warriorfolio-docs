@@ -1,5 +1,17 @@
+<script>
+// Use a static import for server-side compatibility
+import '~/assets/css/main.css'
+
+// Caution: Dynamic imports are not server-side compatible
+import('~/assets/css/main.css')
+</script>
+
+<style>
+@import url("~/assets/css/main.css");
+</style>
+
 <template>
-  <div class="h-screen bg-secondary-50 text-secondary-700 dark:text-secondary-400 dark:bg-secondary-900">
+  <div>
     <BaseHeader />
     <NuxtPage />
   </div>
