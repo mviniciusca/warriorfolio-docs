@@ -20,10 +20,9 @@ This repository contains the official documentation for Warriorfolio 2, a modern
 
 Warriorfolio is a cutting-edge portfolio creation platform designed to help professionals showcase their work with ease. Key highlights include:
 
-- 🚀 Modern and flexible portfolio application
+- 🚀 Modern and flexible portfolio application powered by Laravel 11
 - 🛠️ 100% manageable through a user-friendly Control Panel
 - 🌍 Supports multiple languages
-- 📱 Fully responsive design
 
 ##### ✨ Key Features Covered in Documentation
 
