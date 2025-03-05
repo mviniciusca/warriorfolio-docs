@@ -6,9 +6,6 @@
   <img src="https://raw.githubusercontent.com/mviniciusca/warriorfolio/main/public/img/gif/ezgif-7-41f5195607.gif" alt="Warriorfolio 2 Preview">
 </p>
 
-#### 📚 Warriorfolio Documentation
-
-##### 🌟 About This Repository
 
 This repository contains the official documentation for Warriorfolio 2, a modern and flexible professional portfolio application. The documentation provides comprehensive guides, installation instructions, and detailed information about the main Warriorfolio project.
 
